@@ -1,0 +1,13 @@
+pytorch-tabnet
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+streamlit
+plotly
+matplotlib
+seaborn
+pandas
+numpy
+joblib
+pytest
